@@ -26,12 +26,12 @@ Approach:
 ◦Design_2 (alternate approach): Design of a 6-DOF robotic arm using pneumatically controlled artificial muscles for tough robotic applications <br>
 
 <p>Design Specifications:</p>
-◦DOF: 6
-◦Mass: 54.2 kg
-◦Bounding box dimension: 0.16*0.7*0.17 (m)
-◦Payload: 5 kg
-◦Max. reach: 1.42 m
-◦Material: Al 6061 T6, PLA (3D printed shells for motor casing)
+◦DOF: 6 <br>
+◦Mass: 54.2 kg <br>
+◦Bounding box dimension: 0.16*0.7*0.17 (m) <br>
+◦Payload: 5 kg <br>
+◦Max. reach: 1.42 m <br>
+◦Material: Al 6061 T6, PLA (3D printed shells for motor casing) <br>
 
 ## Bill of Materials
 <p align="center">
