@@ -25,6 +25,7 @@ Approach:
 <p>Design_1: Design of a 6-DOF robotic arm</p>
 <p>Design_2 (alternate approach): Design of a 6-DOF robotic arm using pneumatically controlled artificial muscles for tough robotic applications</p>
 
+<p></p>
 <p>Design Specifications:</p>
 <p>DOF: 6</p>
 <p>Mass: 54.2 kg</p>
