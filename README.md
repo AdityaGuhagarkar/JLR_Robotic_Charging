@@ -36,13 +36,13 @@ Approach:
 MAIN MODEL
 <br>
 <p align="center">
-  <img src="https://github.com/AdityaGuhagarkar/JLR_Robotic_Charging/blob/main/CAD/Snaps/MainModel.jpg">
+  <img src="https://github.com/AdityaGuhagarkar/JLR_Robotic_Charging/blob/main/CAD/Snaps/MainModel.jpg" width="350" height="400">
 </p>
 <br>
 ALTERNATE MODEL
 <br>
 <p align="center">
-  <img src="https://github.com/AdityaGuhagarkar/JLR_Robotic_Charging/blob/main/CAD/Snaps/AlternateModel.jpg">
+  <img src="https://github.com/AdityaGuhagarkar/JLR_Robotic_Charging/blob/main/CAD/Snaps/AlternateModel.jpg" width="350" height="400">
 </p>
 <br>
 
