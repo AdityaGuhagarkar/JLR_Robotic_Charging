@@ -32,6 +32,14 @@ Approach:
 ◦Payload: 5 kg <br>
 ◦Max. reach: 1.42 m <br>
 ◦Material: Al 6061 T6, PLA (3D printed shells for motor casing) <br>
+<br>
+<p align="center">
+  <img src="https://github.com/AdityaGuhagarkar/JLR_Robotic_Charging/tree/main/CAD/Snaps/AlternateModel.jpg">
+</p>
+<br>
+<p align="center">
+  <img src="https://github.com/AdityaGuhagarkar/JLR_Robotic_Charging/tree/main/CAD/Snaps/MainModel.jpg">
+</p>
 
 ## Bill of Materials
 <p align="center">
