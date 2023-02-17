@@ -36,15 +36,15 @@ Approach:
 
 ## Bill of Materials
 <p align="center">
-  <img src="https://github.com/AdityaGuhagarkar/JLR_Robotic_Charging/Bill of Material/BOM.png">
+  <img src="https://github.com/AdityaGuhagarkar/JLR_Robotic_Charging/blob/main/Bill of Material/BOM.png">
 </p>
 
 ## Plots
 <p align="center">
-  <img src="https://github.com/AdityaGuhagarkar/JLR_Robotic_Charging/plots/plot1.jpg">
+  <img src="https://github.com/AdityaGuhagarkar/JLR_Robotic_Charging/blob/main/plots/plot1.jpg">
 </p>
 <p align="center">
-  <img src="https://github.com/AdityaGuhagarkar/JLR_Robotic_Charging/plots/plot2.jpg"">
+  <img src="https://github.com/AdityaGuhagarkar/JLR_Robotic_Charging/blob/main/plots/plot2.jpg"">
 </p>
 
 ## Conclusion:
