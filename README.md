@@ -22,17 +22,16 @@ To design a robotic arm that should be able to reach the charging port of the el
 
 Approach:
 <p>Two different approaches have been taken to achieve the said objective</p>
-<p>Design_1: Design of a 6-DOF robotic arm</p>
-<p>Design_2 (alternate approach): Design of a 6-DOF robotic arm using pneumatically controlled artificial muscles for tough robotic applications</p>
+◦Design_1: Design of a 6-DOF robotic arm <br>
+◦Design_2 (alternate approach): Design of a 6-DOF robotic arm using pneumatically controlled artificial muscles for tough robotic applications <br>
 
-<p></p>
 <p>Design Specifications:</p>
-<p>DOF: 6</p>
-<p>Mass: 54.2 kg</p>
-<p>Bounding box dimension: 0.16*0.7*0.17 (m)</p>
-<p>Payload: 5 kg</p>
-<p>Max. reach: 1.42 m</p>
-<p>Material: Al 6061 T6, PLA (3D printed shells for motor casing)</p>
+◦DOF: 6
+◦Mass: 54.2 kg
+◦Bounding box dimension: 0.16*0.7*0.17 (m)
+◦Payload: 5 kg
+◦Max. reach: 1.42 m
+◦Material: Al 6061 T6, PLA (3D printed shells for motor casing)
 
 ## Bill of Materials
 <p align="center">
