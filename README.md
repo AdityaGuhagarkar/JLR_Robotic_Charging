@@ -6,13 +6,13 @@
 The objective of this project was to develop a robotic arm that can automatically detect the vehicle's charging port and plug the socket into the charging port.
 
 ## Methodology:
-◦The CAD model of the robotic arm was developed using Fusion360 and SolidWorks. The Robotic arm simulation was done on MATLAB using the Kinova Gen3 Model for testing arm control algorithms.
-◦For perception, a Yolov7 model was trained to detect the CCS2 charging port. Then, stereo cameras were used to determine the distance to the charding port. Finally an Aruco marker placed near the charging port was used to obtain the 6D pose.
-◦For the given end pose, we create an inverse kinematics solver. To solve the inverse kinematics for each waypoint, we first obtain the target pose as a function of the waypoints and their orientations. The joint waypoints are then defined via the inverse kinematics function.
-◦We have defined 4 ways to generate a trajectory, namely ‘trap’, ‘cubic’, ‘quintic’, and ‘bspline’
-◦Then, we plot Velocity vs Time, Acceleration vs Time, Torque vs Time and Power vs Time via which we can find average power.
-◦Torque is defined using the inverseDynamics function with the pose, velocity, acceleration and external forces as variables.
-◦We finally visualize the robotic arm motion on a 3D plot
+<p>◦The CAD model of the robotic arm was developed using Fusion360 and SolidWorks. The Robotic arm simulation was done on MATLAB using the Kinova Gen3 Model for testing arm control algorithms.</p>
+<p>◦For perception, a Yolov7 model was trained to detect the CCS2 charging port. Then, stereo cameras were used to determine the distance to the charding port. Finally an Aruco marker placed near the charging port was used to obtain the 6D pose.</p>
+<p>◦For the given end pose, we create an inverse kinematics solver. To solve the inverse kinematics for each waypoint, we first obtain the target pose as a function of the waypoints and their orientations. The joint waypoints are then defined via the inverse kinematics function.</p>
+<p>◦We have defined 4 ways to generate a trajectory, namely ‘trap’, ‘cubic’, ‘quintic’, and ‘bspline’</p>
+<p>◦Then, we plot Velocity vs Time, Acceleration vs Time, Torque vs Time and Power vs Time via which we can find average power.</p>
+<p>◦Torque is defined using the inverseDynamics function with the pose, velocity, acceleration and external forces as variables.</p>
+<p>◦We finally visualize the robotic arm motion on a 3D plot</p>
 
 
 ## Robot Arm Design:
